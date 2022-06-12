@@ -1,12 +1,7 @@
 ---
 title: "Oleksandra Smilyk"
-editor: visual
 ---
 
-This is Oleksandra Smilyk. She is a student of KSE.
+This is Oleksandra Smilyk. She is a student of Kyiv School of Economics.
 
-![My photo](C:/Users/R/Summer_project/my_website/photo5271796516316625920.jpg)
-
-```{r}
-
-```
+![my photo](photo5271796516316625920.jpg)
