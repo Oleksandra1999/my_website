@@ -1,12 +1,12 @@
 ---
 title: "Oleksandra Smilyk"
+editor: visual
 ---
 
-This is a Quarto website.
+This is Oleksandra Smilyk. She is a student of KSE.
 
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![My photo](C:/Users/R/Summer_project/my_website/photo5271796516316625920.jpg)
 
 ```{r}
-1 + 1
+
 ```
